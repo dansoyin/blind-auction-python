@@ -5,7 +5,7 @@ A simple Python program to simulate a blind auction and find the highest bid.
 ##  Run
 
 ```bash
-python main.py
+python bid.py
 ```
 
 ##  Features
